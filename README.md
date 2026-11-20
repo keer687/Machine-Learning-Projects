@@ -112,7 +112,7 @@ Predict customer churn using ensemble machine learning techniques.
 
 ---
 
-## 📂 Repository Structure
+## 📂 Structure
 
 ```
 Machine-Learning-Predictive-Modeling-Projects/
@@ -122,23 +122,6 @@ Machine-Learning-Predictive-Modeling-Projects/
 ├── Customer_Churn_Prediction.ipynb
 ├── requirements.txt
 └── README.md
-```
-
----
-
-## 📦 Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/Machine-Learning-Predictive-Modeling-Projects.git
-```
-
-Install the required packages:
-
-```bash
-pip install -r requirements.txt
-```
 
 ---
 
